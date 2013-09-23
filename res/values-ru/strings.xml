@@ -868,6 +868,7 @@
     <string name="Enable_list_zoom_summary">Если эта функция включена, вы можете изменить размер списка, используя щипком жест</string>
     <string name="Mediafire_login">Войти в MediaFire</string>
     <string name="No_master_password_set">Мастер-пароль не был установлен</string>
+    <!-- v 1.5.1 -->
     <string name="Ssl_certificate_is_not_trusted">Сертификат не подписан доверенным источником. Вы хотите, принять это предложение?</string>
     <string name="Issuer">Издатель</string>
     <string name="Subject">Субъект</string>
